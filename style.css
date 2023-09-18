@@ -1,0 +1,7 @@
+body, html{padding:0;margin:0;}
+section{box-sizing:border-box;color:#fff;font-size:24px;text-align:center;}
+.s1{background: linear-gradient( 45deg, #f3ebf0 40%, #ffffff );}
+.s2{background-image: linear-gradient(0deg, #ffff99, #ff3333);}
+.s3{background: linear-gradient( 90deg, #f3ebf0, #ffffff );}
+.s4{background: #ffffff;}
+.s5{background: linear-gradient( 90deg, #f3ebf0, #ffffff );}
